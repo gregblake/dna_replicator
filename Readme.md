@@ -4,7 +4,9 @@
 
 I recently found the /r/dailyprogrammer subreddit, which has weekly programming challenges. 
 
-Here's the description for this challenge: DNA - deoxyribonucleic acid - is the building block of every organism. It contains information about hair color, skin tone, allergies, and more. It's usually visualized as a long double helix of base pairs. DNA is composed of four bases - adenine, thymine, cytosine, guanine - paired as follows: A-T and G-C.
+#### Here's the description for this challenge: 
+
+DNA - deoxyribonucleic acid - is the building block of every organism. It contains information about hair color, skin tone, allergies, and more. It's usually visualized as a long double helix of base pairs. DNA is composed of four bases - adenine, thymine, cytosine, guanine - paired as follows: A-T and G-C.
 
 Meaning: on one side of the strand there may be a series of bases
 
