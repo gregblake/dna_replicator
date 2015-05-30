@@ -1,0 +1,1 @@
+require './dna_replicator'
